@@ -1,0 +1,14 @@
+# 1797 - Province1797
+
+# County Title
+title = c_province1797
+
+# Settlements
+max_settlements = 2
+b_barony1797` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

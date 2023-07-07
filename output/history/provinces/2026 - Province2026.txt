@@ -1,0 +1,15 @@
+# 2026 - Province2026
+
+# County Title
+title = c_province2026
+
+# Settlements
+max_settlements = 5
+b_barony2026` = tribal
+b_barony2026a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

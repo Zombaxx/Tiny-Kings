@@ -1,0 +1,15 @@
+# 1893 - Province1893
+
+# County Title
+title = c_province1893
+
+# Settlements
+max_settlements = 5
+b_barony1893` = tribal
+b_barony1893a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

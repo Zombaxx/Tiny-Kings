@@ -1,0 +1,14 @@
+# 2078 - Province2078
+
+# County Title
+title = c_province2078
+
+# Settlements
+max_settlements = 3
+b_barony2078` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

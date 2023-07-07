@@ -1,0 +1,14 @@
+# 1917 - Province1917
+
+# County Title
+title = c_province1917
+
+# Settlements
+max_settlements = 4
+b_barony1917` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

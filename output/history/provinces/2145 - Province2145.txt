@@ -1,0 +1,14 @@
+# 2145 - Province2145
+
+# County Title
+title = c_province2145
+
+# Settlements
+max_settlements = 4
+b_barony2145` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

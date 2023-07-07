@@ -1,0 +1,15 @@
+# 1574 - Province1574
+
+# County Title
+title = c_province1574
+
+# Settlements
+max_settlements = 5
+b_barony1574` = tribal
+b_barony1574a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

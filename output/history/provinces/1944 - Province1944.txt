@@ -1,0 +1,14 @@
+# 1944 - Province1944
+
+# County Title
+title = c_province1944
+
+# Settlements
+max_settlements = 4
+b_barony1944` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

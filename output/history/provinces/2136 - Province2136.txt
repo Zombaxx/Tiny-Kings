@@ -1,0 +1,14 @@
+# 2136 - Province2136
+
+# County Title
+title = c_province2136
+
+# Settlements
+max_settlements = 3
+b_barony2136` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

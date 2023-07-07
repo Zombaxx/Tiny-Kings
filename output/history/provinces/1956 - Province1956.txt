@@ -1,0 +1,14 @@
+# 1956 - Province1956
+
+# County Title
+title = c_province1956
+
+# Settlements
+max_settlements = 4
+b_barony1956` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

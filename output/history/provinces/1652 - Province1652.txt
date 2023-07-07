@@ -1,0 +1,15 @@
+# 1652 - Province1652
+
+# County Title
+title = c_province1652
+
+# Settlements
+max_settlements = 5
+b_barony1652` = tribal
+b_barony1652a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

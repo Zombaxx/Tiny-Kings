@@ -1,0 +1,15 @@
+# 2118 - Province2118
+
+# County Title
+title = c_province2118
+
+# Settlements
+max_settlements = 5
+b_barony2118` = tribal
+b_barony2118a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

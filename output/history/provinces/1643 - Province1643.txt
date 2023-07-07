@@ -1,0 +1,14 @@
+# 1643 - Province1643
+
+# County Title
+title = c_province1643
+
+# Settlements
+max_settlements = 1
+b_barony1643` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1720 - Province1720
+
+# County Title
+title = c_province1720
+
+# Settlements
+max_settlements = 5
+b_barony1720` = tribal
+b_barony1720a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

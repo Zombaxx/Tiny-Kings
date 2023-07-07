@@ -1,0 +1,14 @@
+# 2090 - Province2090
+
+# County Title
+title = c_province2090
+
+# Settlements
+max_settlements = 4
+b_barony2090` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1919 - Province1919
+
+# County Title
+title = c_province1919
+
+# Settlements
+max_settlements = 2
+b_barony1919` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

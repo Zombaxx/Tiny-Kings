@@ -1,0 +1,14 @@
+# 2030 - Province2030
+
+# County Title
+title = c_province2030
+
+# Settlements
+max_settlements = 3
+b_barony2030` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History
