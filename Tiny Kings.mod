@@ -1,5 +1,5 @@
-name="Output"
-path="mod/output"
+name="Tiny Kings Pre-Alpha 0.1"
+path="mod/Tiny Kings"
 #replace_path = "history/characters"
 #replace_path = "history/offmap_powers"
 #replace_path = "history/provinces"
